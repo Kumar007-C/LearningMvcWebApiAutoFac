@@ -1,0 +1,14 @@
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\bin\Debug\netcoreapp2.1\IntervalAnalyser.deps.json
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\bin\Debug\netcoreapp2.1\IntervalAnalyser.runtimeconfig.json
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\bin\Debug\netcoreapp2.1\IntervalAnalyser.runtimeconfig.dev.json
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\bin\Debug\netcoreapp2.1\IntervalAnalyser.dll
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\bin\Debug\netcoreapp2.1\IntervalAnalyser.pdb
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.csproj.CoreCompileInputs.cache
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.RazorAssemblyInfo.cache
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.RazorAssemblyInfo.cs
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.AssemblyInfoInputs.cache
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.AssemblyInfo.cs
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.RazorTargetAssemblyInfo.cache
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.dll
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.pdb
+C:\InterviewTest\21Jan2020KumarC\WebAppKumar\IntervalAnalyser\obj\Debug\netcoreapp2.1\IntervalAnalyser.csprojAssemblyReference.cache

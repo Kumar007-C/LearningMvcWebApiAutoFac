@@ -1,0 +1,12 @@
+C:\Users\Gururaj\source\repos\WebSolution\Library\bin\Debug\Library.dll
+C:\Users\Gururaj\source\repos\WebSolution\Library\bin\Debug\Library.pdb
+C:\Users\Gururaj\source\repos\WebSolution\Library\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gururaj\source\repos\WebSolution\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Gururaj\source\repos\WebSolution\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Gururaj\source\repos\WebSolution\Library\obj\Debug\Library.dll
+C:\Users\Gururaj\source\repos\WebSolution\Library\obj\Debug\Library.pdb
+C:\Users\Gururaj\source\repos\WebSolution\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gururaj\source\repos\WebSolution\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gururaj\source\repos\WebSolution\Library\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gururaj\source\repos\WebSolution\Library\bin\Debug\IronXL.dll
+C:\Users\Gururaj\source\repos\WebSolution\Library\bin\Debug\IronXL.xml
